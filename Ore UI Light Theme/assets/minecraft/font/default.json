@@ -1,0 +1,5 @@
+{
+    "providers": [
+        { "type": "bitmap", "file": "minecraft:gui/title/pause.png", "ascent": 7, "height": 32, "chars": [ "" ] }
+    ]
+}
